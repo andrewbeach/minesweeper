@@ -1,6 +1,6 @@
 # minesweeper
 
-A [re-frame](https://github.com/Day8/re-frame) application designed to ... well, that part is up to you.
+A [re-frame](https://github.com/Day8/re-frame) application experimenting with reagent and re-frame by emulating minesweeper game. 
 
 ## Development Mode
 
