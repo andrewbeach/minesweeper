@@ -1,0 +1,4 @@
+(ns minesweeper.db)
+
+(def default-db
+  {:name "re-frame"})
